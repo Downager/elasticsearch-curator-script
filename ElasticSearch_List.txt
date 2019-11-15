@@ -1,0 +1,1 @@
+my-cluster localhost:9200 user:pass
